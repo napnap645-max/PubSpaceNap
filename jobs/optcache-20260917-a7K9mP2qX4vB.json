@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "job_id": "optcache-20260917-a7K9mP2qX4vB",
+  "type": "ug_batch",
+  "created_at": "2026-09-16T23:16:20Z",
+  "expires_at": "2026-09-16T23:36:20Z",
+  "songs": [
+    {
+      "artist": "Optimization",
+      "title": "Cache Fixture",
+      "query": "Optimization Cache Fixture"
+    }
+  ],
+  "cache_mode": "trust",
+  "force": false,
+  "verification_cache": {
+    "optimization__cache-fixture": {
+      "status": "verified",
+      "fingerprint": "fixture-music-v1",
+      "scrape_status": "present",
+      "scrape_fingerprint": "fixture-scrape-v1",
+      "render_status": "current",
+      "render_fingerprint": "fixture-render-v1"
+    }
+  }
+}
