@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "job_id": "smoke-9a1727ec11123add",
+  "type": "ug_batch",
+  "created_at": "2026-09-17T01:10:18.000000Z",
+  "expires_at": "2026-09-17T01:30:18.000000Z",
+  "songs": [{"artist":"Bob Dylan","title":"Song to Woody","query":"Bob Dylan Song to Woody"}],
+  "cache_mode": "trust",
+  "force": false,
+  "verification_cache": {
+    "bob-dylan__song-to-woody": {
+      "status":"verified",
+      "fingerprint":"835389b0552355539365777390548814bc4600a1389b1692ca17ba6ca79cb10a",
+      "scrape_status":"present",
+      "scrape_fingerprint":"a45cdec16c0f632484d54f269d2416b840c1222e049b4c7ac49a0efd708c4805",
+      "scrape_data_url":"https://drive.google.com/file/d/1srqXj3eAhk_vGSB_0GJ1o5wTGv-Ri6Cu/view?usp=drivesdk"
+    }
+  },
+  "result_token_sha256":"4b5278464fa898d76b964c38f5d76364c0fc817cae887c5d1deea39dcd594e85"
+}
